@@ -9,4 +9,4 @@ Zadrozny. ICML2004.
 Corinna Cortes .2008 
 
 # 4.ESAM: Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance
-Zhihong Chen .SIGIR 2020
+Zhihong Chen. alibaba group. SIGIR 2020
