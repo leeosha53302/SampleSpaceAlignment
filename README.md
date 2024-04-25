@@ -8,5 +8,9 @@ Zadrozny. ICML2004.
 # 3.Sample Selection Bias Correction Theory 
 Corinna Cortes .2008 
 
-# 4.ESAM: Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance
+# 4.Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate
+Xiao Ma, alibaba group . SIGIR’2018
+
+# 5.ESAM: Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance
 Zhihong Chen. alibaba group. SIGIR 2020
+
